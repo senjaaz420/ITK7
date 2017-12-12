@@ -1,0 +1,6 @@
+c:\users\wrong\documents\visual studio 2017\Projects\Tripak\Tripak\bin\Debug\Tripak.exe.config
+c:\users\wrong\documents\visual studio 2017\Projects\Tripak\Tripak\bin\Debug\Tripak.exe
+c:\users\wrong\documents\visual studio 2017\Projects\Tripak\Tripak\bin\Debug\Tripak.pdb
+c:\users\wrong\documents\visual studio 2017\Projects\Tripak\Tripak\obj\Debug\Tripak.csprojResolveAssemblyReference.cache
+c:\users\wrong\documents\visual studio 2017\Projects\Tripak\Tripak\obj\Debug\Tripak.exe
+c:\users\wrong\documents\visual studio 2017\Projects\Tripak\Tripak\obj\Debug\Tripak.pdb
